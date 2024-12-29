@@ -1,1 +1,6 @@
 Finance Manager
+Masters
+Account
+Categories
+Types Of Transactions
+Journel Entry
